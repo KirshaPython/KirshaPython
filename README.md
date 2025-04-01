@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying Computer Science and Information Science at Masaryk University. <br><br>Working on improving the performance and efficiency of my Python code, especially in terms of <br>optimization and working with large datasets.<br><br>Exploring machine learning techniques, particularly in reinforcement learning, and improving <br>my C#, JavaScript, SQL and React skills.<br><br>I'm a HOI4 and Minesweeper enjoyer :P
+Currently studying Computer Science and Information Science at Masaryk University. <br><br>Working on improving the performance and efficiency of my Python code, especially in terms of <br>optimization and working with large datasets.<br><br>Exploring machine learning techniques, particularly in reinforcement learning, and improving <br>my C#, JavaScript, SQL and React skills.<br><br>I'm a HOI4, Vicky 3 and Minesweeper enjoyer :P
 
 
 ## 🌐 Socials:
